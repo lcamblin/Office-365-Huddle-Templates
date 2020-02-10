@@ -136,7 +136,7 @@
       "kind": "LUIS",
       "name": "[variables('luisName')]",
       "apiVersion": "2016-02-01-preview",
-      "location": "westus2",
+      "location": "westus",
       "properties": {}
     },
     {
